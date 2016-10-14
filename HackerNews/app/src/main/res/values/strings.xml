@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hacker News</string>]
+    <string name="domain">https://hacker-news.firebaseio.com</string>
+    <string name="loading">Loading</string>
+</resources>
